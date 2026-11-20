@@ -1,6 +1,6 @@
 # Code and derived data: ENSO imprint on surface solar radiation over the Middle East (ERA5, with a CERES EBAF check)
 
-Authors: Khabat Ghamari, Asrin Seyedzahedi. Manuscript submitted to Atmospheric Research.
+Authors: Khabat Ghamari, Asrin Seyedzahedi.
 
 ## Contents
 - `stages_combine.py` - ERA5 analysis: regional means, lagged correlation, phase-randomised surrogates, block bootstrap, seasonal analysis, cloud/clear-sky decomposition, robustness, maps.
